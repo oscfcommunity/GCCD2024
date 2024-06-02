@@ -1,4 +1,11 @@
-# Issue Template
+---
+name: Task
+about: Template for creating and assigning tasks
+title: "[TASK] "
+labels: task
+assignees: ''
+
+---
 
 ## Task Title
 - **Description**: Provide a detailed description of the task.
