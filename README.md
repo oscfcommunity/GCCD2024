@@ -45,6 +45,10 @@ We collaborate with various community partners to ensure a diverse and inclusive
 
 - [ISSUE_TEMPLATE.md](ISSUE_TEMPLATE.md): Template for creating and assigning tasks.
 
+## Create an Issue
+You can use the following links to create issues using our templates:
+- [Create a Task](https://github.com/oscfcommunity/GCCD2024/issues/new?template=ISSUE_TEMPLATE.md)
+
 ## Follow Our Social Handles
 - [LinkedIn](https://www.linkedin.com/company/gdgcloudgandhinagar/)
 - [Twitter](https://x.com/GDGCloudGN)
