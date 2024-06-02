@@ -11,9 +11,9 @@ Google Cloud Community Day, also known as GCCD, is an esteemed annual event orga
 
 ## Event Details
 
-**Date:** TBD
-**Location:** TBD (City)
-**Time:** TBD
+- **Date:** TBD
+- **Location:** TBD (City)
+- **Time:** TBD
 
 Stay tuned for updates on the exact date and venue!
 
