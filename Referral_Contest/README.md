@@ -36,7 +36,7 @@ The contest starts on 10/07/2024 at 06:00 PM.
 
 ## Referral Leaderboard
 
-Keep track of your score and see if you are among the top leaders at the [Referral Leaderboard](https://referral.konfhub.com/ccdgn-2024/referral_contest_url_1).
+Keep track of your score and see if you are among the top leaders at the [Referral Leaderboard](https://referral.konfhub.com/ccdgn-2024/referral_contest_url_1) .
 
 ## Contact
 
