@@ -16,7 +16,7 @@ The contest starts on 10/07/2024 at 06:00 PM.
 
 ## Referral Steps
 
-1. Register for the event at [Event Registration](referral_registration_url) and receive your customized referral link in the confirmation email.
+1. Register for the event at [Event Registration](https://konfhub.com/ccdgn-2024) and receive your customized referral link in the confirmation email.
 2. Share the referral link within your circle and professional network and encourage them to register for the event.
 3. Ensure participation of those you have referred during the event day.
 4. Check the leaderboard to see your score and aim to be among the top leaders.
