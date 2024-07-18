@@ -1,6 +1,7 @@
 # 🤝 Call for Community Partners: Google Cloud Community Day Gandhinagar 2024 🤝
+![1720420245483-d852d05b-f0ed-4c95-81f1-e654d411faba](https://github.com/user-attachments/assets/17aecd64-ac49-4d7e-91d8-ca690383e21d)
 
-[Event Logo or Banner]
+
 
 **Join us in building a thriving cloud ecosystem in India!**
 
@@ -31,7 +32,7 @@ We offer flexible partnership packages to suit your community's goals and resour
 
 ## How to Apply?
 
-Please submit your partnership proposal via our online form: [Link to Partnership Proposal Form]
+Please submit your partnership proposal via our online form: https://forms.gle/kKauttDteAi3Geex5
 
 Include the following information:
 
