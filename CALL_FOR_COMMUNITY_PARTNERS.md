@@ -17,7 +17,7 @@ Google Cloud Community Day Gandhinagar 2024 invites passionate cloud, DevOps, an
 
 We offer flexible partnership packages to suit your community's goals and resources:
 
-* **Community Booth:** Showcase your projects, services, or initiatives at a dedicated booth in our expo area.
+* **Community Booth:** Showcase your projects, services, or initiatives at a dedicated booth in our expo area. **[ Not Available this time ]** 
 * **Promotion & Marketing:**  Get your community featured on our event website, social media channels, and promotional materials.
 * **Custom Collaborations:**  We're open to exploring unique ideas for collaborations that align with your community's objectives.
 
