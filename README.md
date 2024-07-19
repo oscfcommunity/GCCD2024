@@ -11,9 +11,9 @@ Google Cloud Community Day, also known as GCCD, is an esteemed annual event orga
 
 ## Event Details
 
-- **Date:** TBD
-- **Location:** Gandhinagar
-- **Time:** TBD
+- **Date:** 10th August 2024
+- **Location:** [Karnavati University, Dist, Gandhinagar, 382422](https://www.google.com/maps/search/?api=1&query=Karnavati+University,+Dist,+:,+Gandhinagar,+Gujarat,+India)
+- **Time:** 09:00 AM to 06:00 PM
 
 Stay tuned for updates on the exact date and venue!
 
