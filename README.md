@@ -21,7 +21,7 @@ Stay tuned for updates on the exact date and venue!
 
 - [TEAM.md](TEAM.md): Information about the organizing team and volunteers.
 
-**Call for Volunteers:** We welcome individuals who are passionate about cloud technology to join our volunteer team. Please fill out the [Volunteer Interest Form](https://forms.gle/your-form-link-here) if you'd like to contribute your skills and enthusiasm.
+**Call for Volunteers:** We welcome individuals who are passionate about cloud technology to join our volunteer team. Please fill out the [Volunteer Interest Form](https://lnkd.in/dDkMFxKR) if you'd like to contribute your skills and enthusiasm.
 
 ## Sponsors
 
