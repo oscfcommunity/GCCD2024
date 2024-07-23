@@ -34,7 +34,7 @@ Event Location : [Karnavati University BBA New campus](https://maps.app.goo.gl/f
 Ahmedabad and Gandhinagar are sister cities, conveniently located just 45 minutes apart. This proximity allows you to easily explore the rich cultural heritage and modern attractions of both cities during your visit.
 
 <details>
-<summary>Places to visit in Ahmedabad</summary>
+<summary><h3>Places to visit in Ahmedabad</h3></summary>
 <ul>
 <li>Sarkhej Roza</li>
 <li>Bai Harir Ni Vav</li>
@@ -57,7 +57,7 @@ Ahmedabad and Gandhinagar are sister cities, conveniently located just 45 minute
 </details>
 
 <details>
-<summary>Places to visit in Gandhinagar</summary>
+<summary><h3>Places to visit in Gandhinagar</h3></summary>
 <ul>
 <li>Adalaj ni Vav</li>
 <li>Indroda Dinosaur and Fossil Park</li>
@@ -67,9 +67,9 @@ Ahmedabad and Gandhinagar are sister cities, conveniently located just 45 minute
 </details>
 
 <details>
-<summary>Food Experiences</summary>
+<summary><h3>Food Experiences</h3></summary>
 
-<h3>Fast Food</h3>
+<h4>Fast Food</h4>
 <ul>
 <li>Go to Chandravillas in morning</li>
 <li>Das Khaman</li>
@@ -85,7 +85,7 @@ Ahmedabad and Gandhinagar are sister cities, conveniently located just 45 minute
 <li>Puffiza</li>
 </ul>
 
-<h3>Authentic Gujarati Food</h3>
+<h4>Authentic Gujarati Food</h4>
 <ul>
 <li>Govardhan Thal</li>
 <li>Vishalla</li>
@@ -97,14 +97,14 @@ Ahmedabad and Gandhinagar are sister cities, conveniently located just 45 minute
 <li>Moti Mahal (Non-Veg)</li>
 </ul>
 
-<h3>Cafes</h3>
+<h4>Cafes</h4>
 <ul>
 <li>Coffee Culture</li>
 <li>Varietea</li>
 <li>Mocha</li>
 </ul>
 
-<h3>Sweets</h3>
+<h4>Sweets</h4>
 <ul>
 <li>Ashrafi Kulfi</li>
 <li>The Chocolate Room</li>
