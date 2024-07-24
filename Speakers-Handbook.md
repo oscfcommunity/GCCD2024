@@ -2,20 +2,21 @@
 
 ## Welcome to CCDGN24!
 
-Dear Esteemed Speaker,
+Dear Speakers,
 
-We are thrilled to welcome you to Google Cloud Community Day - Gandhinagar 2024 (CCDGN24). Your expertise and insights are invaluable to our event, and we're excited to have you join us.
+A BIG Thank You from the Organizers of CCDGN’24 for your participation in the Conference as Speakers.
 
 Google Cloud Community Day, also known as GCCD, is an esteemed annual event organized by Google Cloud communities throughout India. The event brings together cloud enthusiasts, developers, and industry experts to share knowledge, network, and collaborate on exciting projects. 
 
-- **Learn:** Engage in technical sessions, workshops, and demos led by Google Cloud experts and community leaders. 
-- **Connect:** Network with peers, potential collaborators, and Google Cloud representatives. 
-- **Celebrate:** Showcase community achievements and explore the latest trends in cloud technology. 
+-	**Inspire:** Share your expertise and insights with a diverse audience eager to learn from your experiences.
+-	**Engage:** Participate in discussions, Q&A sessions, and interactive workshops, fostering a deeper understanding of cloud technology.
+-	**Connect:** Network with fellow speakers, industry leaders, and attendees, creating opportunities for future collaboration. 
 
 Thank you again in advance for helping us to make CCDGN24 a successful event. We look forward to working with you closely. 
 
-Sincerely, 
+Sincerely,
 CCDGN24 Organizing Committee
+
 
 ## Accommodation Information
 
