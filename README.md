@@ -38,7 +38,7 @@ We collaborate with various community partners to ensure a diverse and inclusive
 ## Get Involved
 
 * **Submit a Proposal:** Share your expertise by submitting a talk or workshop proposal through our [CFP Form](https://sessionize.com/google-cloud-community-day-gandhinagar-24/).
-* **Register to Attend:** Registration are open soon. Stay updated by following our social media channels.
+* **Register to Attend:** Registration are [open](https://konfhub.com/ccdgn-2024) now. Stay updated by following our social media channels.
 * **Spread the Word:** Help us reach a wider audience by sharing information about GCCD with your network.
 
 ## Issue Tracker
