@@ -49,14 +49,22 @@ If you need any assistance, please contact our event coordinator:
 <details>
 <summary>Click to view schedule</summary>
 
-| Time | Activity |
-|------|----------|
-| 08:30 AM | Registration Opens |
-| 09:30 AM | Welcome Address |
-| 10:00 AM | Keynote Speaker |
-| ... | ... |
-
-(Add full schedule here)
+| Time | Activity | Speaker |
+|------|----------|---------|
+| 08:30 AM | Registration + Breakfast | - |
+| 10:00 AM | Welcome note | Mehul Patel |
+| 10:10 AM | Keynote | Rinkesh Bansal |
+| 10:35 AM | Scaling your AI applications effortlessly using Cloud Run | Dharmesh Vaya |
+| 11:20 AM | Multilingual RAG using Gemini and Elastic | Ashish Tiwari |
+| 12:05 PM | Harnessing the Power of Google Cloud Functions for Serverless Architectures | Rajani Ekunde |
+| 12:40 PM | Fun Activity/Surprise Sessions | Team CCDG |
+| 01:20 PM | Security posture improvements for GCP | Runcy Oommen |
+| 02:00 PM | Lunch Break | - |
+| 03:15 PM | Exploring the Future: WASM & Kubernetes New Era Cloud-Native Application Deployment | Harsh Manvar |
+| 04:00 PM | The Rise of Serverless Agents: A Beginner's Guide | Anubhav Singh |
+| 04:45 PM | Building Multimodal Search with Gemini Vision model and RAG | Rishiraj Acharya |
+| 05:30 PM | Closing Keynote | Mehul Patel |
+| 06:00 PM | Hi Tea + Networking | - |
 
 </details>
 
@@ -64,8 +72,9 @@ If you need any assistance, please contact our event coordinator:
 
 - 🎟️ Your event ticket (digital or printed)
 - 💼 Business cards for networking
-- 💻 Laptop (for workshops, if applicable)
+- 💻 Laptop (not necessary)
 - 🔌 Chargers and power banks
+- 😊 And a happy face!
 
 ## Code of Conduct
 
