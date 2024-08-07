@@ -31,9 +31,9 @@ If you witness or experience any form of harassment or discrimination, please re
 
 You can report harassment or discrimination in a number of ways:
 
-* In person: Find a Google employee or event organizer member or team and tell them what happened.
+* In person: Find a event organizer member or team or any Google employee who attending the event and tell them what happened.
 * Online: Submit a report through the community [website](https://gdg.community.dev/gdg-cloud-gandhinagar/).
-* Email: Send an email to gdgcloudgandhinagar@gmail.com.
+* Email: Send an email to [gdgcloudgandhinagar@gmail.com](emailto:gdgcloudgandhinagar@gmail.com).
 
 **Zero Tolerance Policy**
 
