@@ -38,11 +38,13 @@ The same ground can accommodate four-wheelers. Follow on-site parking attendants
 
 ## Point of Contact
 
-If you need any assistance, please contact our event coordinator:
+If you need any assistance related to Venue, please contact our event coordinator:
 
-**Name:** Raj Patel (dummy name)  
-**Phone:** +91 98765 43210  
-**Email:** raj.patel@ccdgn24.com
+1. **Name:** Maaanan Jagani 
+   <br>**Phone:** +91 98765 43210
+2. **Name:** Stavan Mehta 
+   <br>**Phone:** +91 98765 43210  
+
 
 ## Event Schedule
 
@@ -83,7 +85,7 @@ If you need any assistance, please contact our event coordinator:
 
 We are committed to providing a harassment-free and inclusive event experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or nationality.
 
-(Add full Code of Conduct here)
+Go through the complete code of conduct : https://github.com/oscfcommunity/GCCD2024/blob/main/Community_Guidelines.md
 
 </details>
 
