@@ -41,9 +41,9 @@ The same ground can accommodate four-wheelers. Follow on-site parking attendants
 If you need any assistance related to Venue, please contact our event coordinator:
 
 1. **Name:** Maaanan Jagani 
-   <br>**Phone:** +91 98765 43210
+   <br>**Phone:** +91 94262 05646
 2. **Name:** Stavan Mehta 
-   <br>**Phone:** +91 98765 43210  
+   <br>**Phone:** +91 93273 52258  
 
 
 ## Event Schedule
