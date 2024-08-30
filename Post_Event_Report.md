@@ -9,6 +9,7 @@
 On August 10, 2024, we hosted an unforgettable Google Cloud Community Day at Karnavati University, bringing together over 600+ attendees, 10 inspiring speakers, and a fantastic team of volunteers. We were thrilled to see that 48% of our attendees were professionals, showcasing the diverse range of individuals interested in cloud technology!
 
 ![image](https://github.com/user-attachments/assets/6380d4fe-ed6f-4558-8a45-bd349f2f7b9a)
+
 *Pie Chart showing the ratio of Students to Professionals present at the event.*
 
 ### **Speakers and Topics**
