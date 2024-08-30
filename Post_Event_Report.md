@@ -103,7 +103,7 @@ We also want to extend our gratitude to our community partners and the amazing c
 
 - **GitHub Management:** All activities and tasks for organizing #CCDGN24 were managed on GitHub. From poster creation to content generation for this report, everything was done using GitHub. Check out our closed issues for a behind-the-scenes look!
 ![image](https://github.com/user-attachments/assets/5eb7f037-a7d5-456f-bd75-6de4bb9e416b)
-
+- The GitHub project for CCDGN24 is now public! This means you can clone the repository and use it to organize your own events. Check it out and see how we planned everything, from poster creation to content generation for the report.
 - **Professional Involvement:** All our speakers, host, artists/performers, and most volunteers were professionals, ensuring a high-quality experience for all attendees.
 - **Our Host:** Drijesh Patel, our energetic host, is a Program Manager at IBM and brought his unique blend of professionalism and charisma to the event.
 
