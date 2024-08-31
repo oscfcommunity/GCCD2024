@@ -45,16 +45,17 @@ The event generated incredible buzz on social media:
 
 | **Speaker Name**      | **Topic**                                                                        | **Session Link**         |
 |-----------------------|----------------------------------------------------------------------------------|--------------------------|
-| Rinkesh Bansal        | Cutting-edge security strategies for Google Cloud                                | [Session](https://youtu.be/1r6_qaKbM78?si=Iukudhs3XcO2Sncf)       |
-| Dharmesh Vaya         | Scaling AI applications effortlessly with Cloud Run                              | [Session](https://youtu.be/I7e93KbiENE?si=Vg7UbaydcgVXenlq)       |
-| Ashish Tiwari         | Multilingual RAG using Gemini and Elastic                                        | [Session](#)       |
-| Rajani Ekunde         | Exploring the power of Google Cloud Functions for serverless architectures       | [Session](#)       |
-| Runcy Oommen          | Sharing security posture improvements for GCP                                    | [Session](#)       |
-| Anubhav Singh         | Guiding through the rise of serverless agents                                    | [Session](#)       |
-| Harsh Manvar          | Unveiling the future of WASM & Kubernetes for cloud-native application deployment| [Session](#)       |
-| Rishiraj Acharya      | Building multimodal search with the Gemini Vision model and RAG                  | [Session](#)       |
-| Arun Teja Godavarthi  | General Tech Talk                                                                | [Session](#)       |
-| Mehul Patel           | Opening Note                                                                     | [Session](https://youtu.be/kJefvahC1kw?si=ZKDAA3o2oNUjl6Am)       |
+| Mehul Patel           | Opening Note                                                                     | [Session](https://youtu.be/kJefvahC1kw)|
+| Rinkesh Bansal        | Cutting-edge security strategies for Google Cloud                                | [Session](https://youtu.be/1r6_qaKbM78)|
+| Dharmesh Vaya         | Scaling AI applications effortlessly with Cloud Run                              | [Session](https://youtu.be/I7e93KbiENE)|
+| Ashish Tiwari         | Multilingual RAG using Gemini and Elastic                                        | [Session](https://youtu.be/xEkMp7qtsZI)|
+| Rajani Ekunde         | Exploring the power of Google Cloud Functions for serverless architectures       | [Session](https://youtu.be/3hqQNfSv0rI)|
+| Runcy Oommen          | Sharing security posture improvements for GCP                                    | [Session](https://youtu.be/RSDL87omWlU)|
+| Nirav Pachchigar      | 🎤 Jamming Session                                                               | [Session](https://youtu.be/xKT4l7WflQk)|
+| Anubhav Singh         | Guiding through the rise of serverless agents                                    | [Session](https://youtu.be/Z8U0Xq6a2pM)|
+| Harsh Manvar          | Unveiling the future of WASM & Kubernetes for cloud-native application deployment| [Session](https://youtu.be/Cg2nspaHPQc)|
+| Rishiraj Acharya      | Building multimodal search with the Gemini Vision model and RAG                  | [Session](https://youtu.be/s3TruBPp53Q)|
+| Mehul Patel           | Closing Note                                                                     | [Session](https://youtu.be/ilH60RHDYeM) |
 
 #### **Speaker Spotlight**
 
