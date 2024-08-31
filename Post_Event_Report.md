@@ -114,7 +114,8 @@ We also want to extend our gratitude to our community partners and the amazing c
 
 ### **Links to Sessions and Podcasts**
 
-- **Speaker Sessions:** [Link to Sessions](#)
+- **Speaker Sessions:** [Link to Sessions](https://www.youtube.com/playlist?list=PL7m7kHJFCVjVbf0YUpKLi1ZFHUGOzSJ5j)
+- **BTS Moments - The Story Behind the Event,** [Watch the Playlist:](https://www.youtube.com/playlist?list=PL7m7kHJFCVjVzWygbRhWSFi1AI7br58ix)
 - **Speaker Podcasts:** [Podcast Links](#)
 - **Linktree for Social Media:** [Linktree](https://linktr.ee/gdgcloudgn)
 
