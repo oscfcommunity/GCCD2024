@@ -49,7 +49,7 @@ We collaborate with various community partners to ensure a diverse and inclusive
 You can use the following links to create issues using our templates:
 - [Create a Task](https://github.com/oscfcommunity/GCCD2024/issues/new?template=ISSUE_TEMPLATE.md)
 
-## [GDG - Cloud Community Days 2024 | Brand Guide](https://docs.google.com/presentation/d/1GVvj-S1hToSsienWihPCKjoxMzvvULgbdj5t1EhjtmU/edit?usp=sharing)
+## GDG - Cloud Community Days 2024 | [Brand Guide](https://docs.google.com/presentation/d/1GVvj-S1hToSsienWihPCKjoxMzvvULgbdj5t1EhjtmU/edit?usp=sharing) | [Design Assests](https://www.figma.com/design/skj2xSVeRaKDPPX7xUY8zE/Google-Cloud-Community-Day-Gandhinagar-2024?node-id=0-1&t=khYoMW3DHrSPUQPm-1)
 
 ## Follow Our Social Handles
 - [LinkedIn](https://www.linkedin.com/company/gdgcloudgandhinagar/)
