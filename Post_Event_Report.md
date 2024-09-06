@@ -66,6 +66,7 @@ The event generated incredible buzz on social media:
 | Ashish Tiwari     | DevRel Elastic (India)                               |   [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/)              |  [Podcast](#)                      |
 | Rajani Ekunde     | DevOps Engineer                                      |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/)               |  [Podcast](#)                      |
 | Runcy Oommen      | Director, Software Engineering, SonicWall            |   [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/)              |  [Podcast](#)                      |
+| Nirav Pachchigar      | Ecosystem Solution Architect, IBM           |   [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/)              |  [Podcast](#)                      |
 | Anubhav Singh     | CTO - Dynopii Inc, Google Developer Expert in ML & GCP|   [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/)             |  [Podcast](#)                      |
 | Harsh Manvar      | Docker Captain, GDE Cloud, CNCF Ambassador           |   [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/)              | [Podcast](#)                       |
 | Rishiraj Acharya  | GDE in ML (Gen AI, Keras), Machine Learning Engineer, Tensorlake |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/)   | [Podcast](#)                       |
