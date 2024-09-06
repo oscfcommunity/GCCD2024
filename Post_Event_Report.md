@@ -1,6 +1,6 @@
 ---
 
-## **Google Cloud Community Day 2024: Post-Event Report**
+## **[Google Cloud Community Day 2024](https://konfhub.com/ccdgn-2024): Post-Event Report**
 
 ### **Event Highlights**
 
