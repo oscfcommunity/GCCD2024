@@ -59,18 +59,16 @@ The event generated incredible buzz on social media:
 
 #### **Speaker Spotlight**
 
-| Speaker           | Designation                                          | Podcast Link                                       |
-|-------------------|------------------------------------------------------|----------------------------------------------------|
-| Rinkesh Bansal    | Program Director & Master Inventor, IBM              | [Podcast](#)                                       |
-| Dharmesh Vaya     | Google Developer Expert - GCP                        | [Podcast](#)                                       |
-| Ashish Tiwari     | DevRel Elastic (India)                               | [Podcast](#)                                       |
-| Rajani Ekunde     | DevOps Engineer                                      | [Podcast](#)                                       |
-| Runcy Oommen      | Director, Software Engineering, SonicWall            | [Podcast](#)                                       |
-| Anubhav Singh     | CTO - Dynopii Inc, Google Developer Expert in ML & GCP| [Podcast](#)                                       |
-| Harsh Manvar      | Docker Captain, GDE Cloud, CNCF Ambassador           | [Podcast](#)                                       |
-| Rishiraj Acharya  | GDE in ML (Gen AI, Keras), Machine Learning Engineer, Tensorlake | [Podcast](#)                            |
-| Arun Teja Godavarthi | Developer Community Manager, India Developer Ecosystem, Google | [Podcast](#)                         |
-| Mehul Patel       | DevRel Consultant, Content Creator & Educator - IT   | [Podcast](#)                                       |
+| Speaker           | Designation                                          | Podcast Host   | Podcast Link                      |
+|-------------------|------------------------------------------------------|----------------|------------------------------------|
+| Rinkesh Bansal    | Program Director & Master Inventor, IBM              |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/) | [Podcast](#)                       |
+| Dharmesh Vaya     | Google Developer Expert - GCP                        |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/)               |  [Podcast](#)                      |
+| Ashish Tiwari     | DevRel Elastic (India)                               |   [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/)              |  [Podcast](#)                      |
+| Rajani Ekunde     | DevOps Engineer                                      |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/)               |  [Podcast](#)                      |
+| Runcy Oommen      | Director, Software Engineering, SonicWall            |   [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/)              |  [Podcast](#)                      |
+| Anubhav Singh     | CTO - Dynopii Inc, Google Developer Expert in ML & GCP|   [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/)             |  [Podcast](#)                      |
+| Harsh Manvar      | Docker Captain, GDE Cloud, CNCF Ambassador           |   [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/)              | [Podcast](#)                       |
+| Rishiraj Acharya  | GDE in ML (Gen AI, Keras), Machine Learning Engineer, Tensorlake |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/)   | [Podcast](#)                       |
 
 ### **What Our Speakers Have to Say About Their Experience**
 
