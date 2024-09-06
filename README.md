@@ -57,3 +57,10 @@ You can use the following links to create issues using our templates:
 - [Instagram](#)
 
 Stay tuned for more updates!
+
+## 🛠️ Usage Guidelines
+
+Feel free to clone this repo and use the contents, including design assets, for your event, but please make sure to give proper credit. This will help appreciate our efforts for the community! 
+
+**Keep rocking!** 🤘
+
