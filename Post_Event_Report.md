@@ -113,6 +113,7 @@ We also want to extend our gratitude to our community partners and the amazing c
 
 ### **Links to Sessions and Podcasts**
 
+- **Presentation:** [Link to Slides](https://github.com/oscfcommunity/GCCD2024/tree/main/Sessions%20PPT)
 - **Speaker Sessions:** [Link to Sessions](https://www.youtube.com/playlist?list=PL7m7kHJFCVjVbf0YUpKLi1ZFHUGOzSJ5j)
 - **BTS Moments - The Story Behind the Event,** [Watch the Playlist:](https://www.youtube.com/playlist?list=PL7m7kHJFCVjVzWygbRhWSFi1AI7br58ix)
 - **Speaker Podcasts:** [Podcast Links](#)
