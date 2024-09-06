@@ -1,103 +1,117 @@
----
+
 
 ## **[Google Cloud Community Day 2024](https://konfhub.com/ccdgn-2024): Post-Event Report**
 
 ### **Event Highlights**
 
-![OFM06312 (1)](https://github.com/user-attachments/assets/103c3e81-89a2-44d0-8ce3-ce6022306426)
+![Event Highlight](https://github.com/user-attachments/assets/103c3e81-89a2-44d0-8ce3-ce6022306426)
 
-On August 10, 2024, we hosted an unforgettable Google Cloud Community Day at Karnavati University, bringing together over 600+ attendees, 10 inspiring speakers, and a fantastic team of volunteers. We were thrilled to see that 48% of our attendees were professionals, showcasing the diverse range of individuals interested in cloud technology!
+On August 10, 2024, we hosted the highly anticipated Google Cloud Community Day at **Karnavati University**, gathering over **600+ attendees**, featuring **10 dynamic speakers**, and energizing a fantastic team of volunteers. Notably, **48% of attendees were professionals**, showcasing the broad appeal of cloud technology across industries and demographics.
 
-![image](https://github.com/user-attachments/assets/6380d4fe-ed6f-4558-8a45-bd349f2f7b9a)
+![Attendee Ratio](https://github.com/user-attachments/assets/6380d4fe-ed6f-4558-8a45-bd349f2f7b9a)
+*Pie chart showing the ratio of students and professionals present at the event.*
 
-*Pie Chart showing the ratio of Students to Professionals present at the event.*
+---
 
 ### **Speakers and Topics**
-![image](https://github.com/user-attachments/assets/b904363d-6cd6-4484-88cc-8c781d5edc3e)
 
-For details about our incredible speakers and their topics, please refer to the [#CCDGN24 -  Speaker Directory.pdf](https://github.com/user-attachments/files/16786429/CCDGN24.-.Speaker.Directory.pdf). 
+![Speakers and Topics](https://github.com/user-attachments/assets/b904363d-6cd6-4484-88cc-8c781d5edc3e)
+
+For details about our esteemed speakers and their session topics, please refer to the [#CCDGN24 - Speaker Directory (PDF)](https://github.com/user-attachments/files/16786429/CCDGN24.-.Speaker.Directory.pdf).
+
+---
 
 ### **Event Activities**
 
-We spiced up the event with some fantastic activities:
+Beyond insightful talks, attendees engaged in some fantastic activities, which made the day even more memorable:
 
-- **Jamming Session by Nirav Pachchigar** (Ecosystem Solution Architect @ IBM): A musical interlude that had everyone tapping their feet.
-- **Poetry by Suhani Soni:** A heartfelt poetry recital that captivated the audience.
-- **"Life is Unfair" Game:** A fun and interactive game led by our enthusiastic volunteers.
-- **Fun Activity by Host:** Engaging and entertaining activities throughout the event by our professional host, **Drijesh Patel** from IBM.
-![Black Minimalist Fashion Moodboard Photo Collage](https://github.com/user-attachments/assets/7b606299-2347-4321-9749-da759f4ee1a4)
+- 🎶 **Jamming Session** by **Nirav Pachchigar**, Ecosystem Solution Architect at IBM.
+- 🎤 **Poetry Recital** by **Suhani Soni** that captivated the audience.
+- 🎲 **"Life is Unfair" Game:** A fun and interactive icebreaker led by our dedicated volunteers.
+- **Fun Activity by Host** **Drijesh Patel** (Program Manager @ IBM), keeping the energy high throughout the day.
 
+![Activities Collage](https://github.com/user-attachments/assets/7b606299-2347-4321-9749-da759f4ee1a4)
+
+---
 
 ### **Social Media Impact**
 
-The event generated incredible buzz on social media:
+Our social media channels were abuzz with excitement, reaching thousands across platforms:
 
-- **Social Media Impressions:** Thousands of impressions across various platforms, showcasing the event's reach and engagement.
-- **Tags Received:** We received a great number of tags from attendees, highlighting their experiences and takeaways. You can also look out the posts on #CCDGN24
+- **Social Media Impressions:** We garnered impressive reach with a high level of engagement.
+- **Event Tags:** Attendees shared their event highlights, reflections, and feedback using the official hashtag **#CCDGN24**.
 
-### **Feedback and Testimonials**
-![Attendees Feedback](https://github.com/user-attachments/assets/87e95b22-aeb9-4645-8687-4a85fcf6e35c)
-*Few snippets taken from social media with our hashtag #CCDGN24*
+![Social Media Snippets](https://github.com/user-attachments/assets/87e95b22-aeb9-4645-8687-4a85fcf6e35c)
 
+---
 
-## **Speaker Sessions**
-*𝘈𝘭𝘭 𝘵𝘩𝘦 𝘴𝘱𝘦𝘢𝘬𝘦𝘳'𝘴 𝘚𝘦𝘴𝘴𝘪𝘰𝘯𝘴 & 𝘱𝘰𝘥𝘤𝘢𝘴𝘵 𝘸𝘪𝘭𝘭 𝘳𝘦𝘭𝘦𝘢𝘴𝘦 𝘴𝘰𝘰𝘯*
+## **Speaker Sessions Links**
 
-| **Speaker Name**      | **Topic**                                                                        | **Session Link**         |
-|-----------------------|----------------------------------------------------------------------------------|--------------------------|
-| Mehul Patel           | Opening Note                                                                     | [Session](https://youtu.be/kJefvahC1kw)|
-| Rinkesh Bansal        | Cutting-edge security strategies for Google Cloud                                | [Session](https://youtu.be/1r6_qaKbM78)|
-| Dharmesh Vaya         | Scaling AI applications effortlessly with Cloud Run                              | [Session](https://youtu.be/I7e93KbiENE)|
-| Ashish Tiwari         | Multilingual RAG using Gemini and Elastic                                        | [Session](https://youtu.be/xEkMp7qtsZI)|
-| Rajani Ekunde         | Exploring the power of Google Cloud Functions for serverless architectures       | [Session](https://youtu.be/3hqQNfSv0rI)|
-| Runcy Oommen          | Sharing security posture improvements for GCP                                    | [Session](https://youtu.be/RSDL87omWlU)|
-| Nirav Pachchigar      | 🎤 Jamming Session                                                               | [Session](https://youtu.be/xKT4l7WflQk)|
-| Anubhav Singh         | Guiding through the rise of serverless agents                                    | [Session](https://youtu.be/Z8U0Xq6a2pM)|
-| Harsh Manvar          | Unveiling the future of WASM & Kubernetes for cloud-native application deployment| [Session](https://youtu.be/Cg2nspaHPQc)|
-| Rishiraj Acharya      | Building multimodal search with the Gemini Vision model and RAG                  | [Session](https://youtu.be/s3TruBPp53Q)|
-| Mehul Patel           | Closing Note                                                                     | [Session](https://youtu.be/ilH60RHDYeM) |
+We recorded all speaker sessions and podcasts. Here’s a list of sessions along with their corresponding podcast episodes, offering attendees the opportunity to revisit the talks or catch up if they missed any live sessions.
 
-#### **Speaker Spotlight**
+| **Speaker Name**      | **Topic**                                                                        | **Session Video Link**            | 
+|-----------------------|----------------------------------------------------------------------------------|-----------------------------------|
+| Mehul Patel           | Opening Note                                                                     | [Watch Session](https://youtu.be/kJefvahC1kw) |  
+| Rinkesh Bansal        | Cutting-edge Security Strategies for Google Cloud                                | [Watch Session](https://youtu.be/1r6_qaKbM78) |   
+| Dharmesh Vaya         | Scaling AI Applications with Cloud Run                                           | [Watch Session](https://youtu.be/I7e93KbiENE) |   
+| Ashish Tiwari         | Multilingual RAG using Gemini and Elastic                                        | [Watch Session](https://youtu.be/xEkMp7qtsZI) |   
+| Rajani Ekunde         | Power of Google Cloud Functions for Serverless Architectures                     | [Watch Session](https://youtu.be/3hqQNfSv0rI) |   
+| Runcy Oommen          | Improving Security Posture on GCP                                                | [Watch Session](https://youtu.be/RSDL87omWlU) |   
+| Nirav Pachchigar      | 🎶 Jamming Session                                                                | [Watch Session](https://youtu.be/xKT4l7WflQk) |   
+| Anubhav Singh         | The Rise of Serverless Agents                                                    | [Watch Session](https://youtu.be/Z8U0Xq6a2pM) |   
+| Harsh Manvar          | WASM & Kubernetes: The Future of Cloud-Native Applications                       | [Watch Session](https://youtu.be/Cg2nspaHPQc) |  
+| Rishiraj Acharya      | Building Multimodal Search with Gemini Vision Model and RAG                      | [Watch Session](https://youtu.be/s3TruBPp53Q) |   
+| Mehul Patel           | Closing Note                                                                     | [Watch Session](https://youtu.be/ilH60RHDYeM) |   
+
+---
+
+### 🎙️ **Speaker Spotlight**
+
+We also conducted exclusive podcast interviews with some of our speakers to delve deeper into their insights and experiences.
 
 | Speaker           | Designation                                          | Podcast Host   | Podcast Link                      |
 |-------------------|------------------------------------------------------|----------------|------------------------------------|
-| Rinkesh Bansal    | Program Director & Master Inventor, IBM              |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/) | [Podcast](#)                       |
-| Dharmesh Vaya     | Google Developer Expert - GCP                        |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/)               |  [Podcast](#)                      |
-| Ashish Tiwari     | DevRel Elastic (India)                               |   [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/)              |  [Podcast](#)                      |
-| Rajani Ekunde     | DevOps Engineer                                      |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/)               |  [Podcast](#)                      |
-| Runcy Oommen      | Director, Software Engineering, SonicWall            |   [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/)              |  [Podcast](#)                      |
-| Nirav Pachchigar      | Ecosystem Solution Architect, IBM           |   [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/)              |  [Podcast](#)                      |
-| Anubhav Singh     | CTO - Dynopii Inc, Google Developer Expert in ML & GCP|   [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/)             |  [Podcast](#)                      |
-| Harsh Manvar      | Docker Captain, GDE Cloud, CNCF Ambassador           |   [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/)              | [Podcast](#)                       |
-| Rishiraj Acharya  | GDE in ML (Gen AI, Keras), Machine Learning Engineer, Tensorlake |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/)   | [Podcast](#)                       |
+| Rinkesh Bansal    | Program Director & Master Inventor, IBM              |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/) | [Podcast Interview](https://spotify.com/link) |
+| Dharmesh Vaya     | Google Developer Expert - GCP                        |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/) | [Podcast Interview](https://spotify.com/link) |
+| Ashish Tiwari     | DevRel Elastic (India)                               |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/) | [Podcast Interview](https://spotify.com/link) |
+| Rajani Ekunde     | DevOps Engineer                                      |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/) | [Podcast Interview](https://spotify.com/link) |
+| Runcy Oommen      | Director, Software Engineering, SonicWall            |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/) | [Podcast Interview](https://spotify.com/link) |
+| Nirav Pachchigar  | Ecosystem Solution Architect, IBM                    |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/) | [Podcast Interview](https://spotify.com/link) |
+| Anubhav Singh     | CTO - Dynopii Inc, Google Developer Expert in ML & GCP|  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/) | [Podcast Interview](https://spotify.com/link) |
+| Harsh Manvar      | Docker Captain, GDE Cloud, CNCF Ambassador           |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/) | [Podcast Interview](https://spotify.com/link) |
+| Rishiraj Acharya  | GDE in ML (Gen AI, Keras), Machine Learning Engineer, Tensorlake |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/) | [Podcast Interview](https://spotify.com/link) |
 
-### **What Our Speakers Have to Say About Their Experience**
+---
 
-1. **Ashish Tiwari (DevRel Elastic Cloud)**
+### **Testimonials from Our Speakers**
+
+Here’s what some of our speakers had to say about their experience at the event:
+
+1. **Ashish Tiwari (DevRel, Elastic Cloud):**
    > "Thanks, Mehul and the entire team for a wonderful show :) It was a pleasure to be a part of this."
 
-2. **Rinkesh Bansal (IBM)**
+2. **Rinkesh Bansal (IBM):**
    > "I had a gala time today. Thanks to Mehul and team for the wonderful event. We had excellent and very knowledgeable speakers, and I am cherishing all the discussions and hope that we will stay connected."
 
-3. **Anubhav Singh (GDG Kolkata)**
+3. **Anubhav Singh (GDG Kolkata):**
    > "Thank you for having me, folks 🥳🙏 It was an amazing experience, and I look forward to contributing more to the Gandhinagar community in the future 😊 So glad to have been a part of this group of brilliant people 🙏"
 
-4. **Dharmesh Vaya (GDG Cloud Mumbai)**
+4. **Dharmesh Vaya (GDG Cloud Mumbai):**
    > "Avengers always rock... especially the ones from GDG Cloud Gandhinagar 👏 Massive THANKS for putting together such an awesome one... Simply Impeccable... 🤍"
 
-
+---
 
 ### **Acknowledgments**
 
-![Companies Associated with CCDGN24 (1)](https://github.com/user-attachments/assets/1e04fde0-6250-48e4-a402-d989e78e2e37)
+![Acknowledgments](https://github.com/user-attachments/assets/1e04fde0-6250-48e4-a402-d989e78e2e37)
 
-A big thank you to our sponsors and partners:
+We would like to extend our heartfelt thanks to:
 
-- **Google Developer Groups (GDG)**
-- **Rezoomex**
-- **Karnavati University** - Venue Partner
+- **Google Developer Groups (GDG)** for their support.
+- **Rezoomex** and **Karnavati University**, our sponsors and venue partner.
+- The incredible volunteers and community partners who made this event possible.
 
-We also want to extend our gratitude to our community partners and the amazing community leaders who volunteered and contributed to the success of the event.
+---
 
 ### **Cool Facts!**
 
