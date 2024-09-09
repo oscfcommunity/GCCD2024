@@ -71,15 +71,15 @@ We also conducted exclusive podcast interviews with some of our speakers to delv
 
 | Speaker           | Designation                                          | Podcast Host   | Podcast Link                      |
 |-------------------|------------------------------------------------------|----------------|------------------------------------|
-| Rinkesh Bansal    | Program Director & Master Inventor, IBM              |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/) | [Podcast Interview](https://spotify.com/link) |
-| Dharmesh Vaya     | Google Developer Expert - GCP                        |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/) | [Podcast Interview](https://spotify.com/link) |
-| Ashish Tiwari     | DevRel Elastic (India)                               |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/) | [Podcast Interview](https://spotify.com/link) |
-| Rajani Ekunde     | DevOps Engineer                                      |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/) | [Podcast Interview](https://spotify.com/link) |
-| Runcy Oommen      | Director, Software Engineering, SonicWall            |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/) | [Podcast Interview](https://spotify.com/link) |
-| Nirav Pachchigar  | Ecosystem Solution Architect, IBM                    |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/) | [Podcast Interview](https://spotify.com/link) |
-| Anubhav Singh     | CTO - Dynopii Inc, Google Developer Expert in ML & GCP|  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/) | [Podcast Interview](https://spotify.com/link) |
-| Harsh Manvar      | Docker Captain, GDE Cloud, CNCF Ambassador           |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/) | [Podcast Interview](https://spotify.com/link) |
-| Rishiraj Acharya  | GDE in ML (Gen AI, Keras), Machine Learning Engineer, Tensorlake |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/) | [Podcast Interview](https://spotify.com/link) |
+| Rinkesh Bansal    | Program Director & Master Inventor, IBM              |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/) | [Podcast Interview](https://youtu.be/xMESbkrOhpU) |
+| Dharmesh Vaya     | Google Developer Expert - GCP                        |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/) | [Podcast Interview](https://youtu.be/JepdsCyt-Fc) |
+| Ashish Tiwari     | DevRel Elastic (India)                               |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/) | [Podcast Interview](https://youtu.be/_U5--ORa2DE) |
+| Rajani Ekunde     | DevOps Engineer                                      |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/) | [Podcast Interview](https://youtu.be/XnuR62GS3vQ) |
+| Runcy Oommen      | Director, Software Engineering, SonicWall            |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/) | [Podcast Interview](https://youtu.be/EnLTaQmbrV0) |
+| Nirav Pachchigar  | Ecosystem Solution Architect, IBM                    |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/) | [Podcast Interview](https://youtu.be/_f1IVFyDJDo) |
+| Anubhav Singh     | CTO - Dynopii Inc, Google Developer Expert in ML & GCP|  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/) | [Podcast Interview](https://youtu.be/kDuVTu7eAj8) |
+| Harsh Manvar      | Docker Captain, GDE Cloud, CNCF Ambassador           |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/) | [Podcast Interview](https://youtu.be/Tym0sTVZALo) |
+| Rishiraj Acharya  | GDE in ML (Gen AI, Keras), Machine Learning Engineer, Tensorlake |  [Mehul Patel](https://www.linkedin.com/in/nomadicmehul/) | [Podcast Interview](https://youtu.be/JAIdi-186os) |
 
 ---
 
