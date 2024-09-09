@@ -38,7 +38,9 @@ Beyond insightful talks, attendees engaged in some fantastic activities, which m
 
 Our social media channels were abuzz with excitement, reaching thousands across platforms:
 
-- **Social Media Impressions:** We garnered impressive reach with a high level of engagement.
+- **Social Media Impressions:** We garnered **337k+** reach with a high level of engagement.
+![image](https://github.com/user-attachments/assets/9330967a-9f3e-445f-aca7-1a4814e60e45)
+
 - **Event Tags:** Attendees shared their event highlights, reflections, and feedback using the official hashtag **#CCDGN24**.
 
 ![Social Media Snippets](https://github.com/user-attachments/assets/87e95b22-aeb9-4645-8687-4a85fcf6e35c)
